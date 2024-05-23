@@ -10,3 +10,8 @@ An interactive Marvel Avengers Quiz built with HTML, CSS, & JavaScript. Test you
 - Progress bar
 - Navigation to skip to any question number
 - Countdown timer to see if you can beat the clock
+
+## Setup
+
+[View Quiz Project Live](https://niadavis.github.io/JavaScriptQuiz/) 
+
